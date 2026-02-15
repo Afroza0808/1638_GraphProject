@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document><Placemark><n>route</n>
+<LineString><tessellate>1</tessellate>
+<coordinates>
+90.363833,23.834145,0
+90.396151,23.738265,0
+</coordinates></LineString></Placemark></Document></kml>
